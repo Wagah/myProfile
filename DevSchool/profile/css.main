@@ -1,0 +1,6 @@
+#pitch {
+
+	background-image: url('images/Style.jpg');
+	padding:140px 0px;
+	background-size: cover;
+}
